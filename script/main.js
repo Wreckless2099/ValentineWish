@@ -157,7 +157,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  response.innerHTML = "YAYYYY 🥹💞 You just made me the happiest person ever babyyy!";
+  response.innerHTML = "🥹💞You always make me happy!";
   yesBtn.style.display = "none";
   noBtn.style.display = "none";
 
